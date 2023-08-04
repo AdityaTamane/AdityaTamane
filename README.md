@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AdityaTamane
-- 👀 I’m interested in softwares
-- 🌱 I’m currently learning B.tech CSE 
-- 💞️ I’m looking to collaborate on various projects
+- Hi, I’m @AdityaTamane
+-  I’m interested in softwares
+-  I’m currently learning B.tech CSE 
+-  I’m looking to collaborate on various projects
 - 📫 insta handle: _adityaaaaa______
 
 <!---
