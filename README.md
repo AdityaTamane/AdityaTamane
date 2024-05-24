@@ -1,10 +1,22 @@
-- Hi, I’m @AdityaTamane
--  I’m interested in softwares
--  I’m currently learning B.tech CSE 
--  I’m looking to collaborate on various projects
-- 📫 insta handle: _adityaaaaa______
+👋 Hello, I'm Aditya Tamane
 
-<!---
-AdityaTamane/AdityaTamane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌟 About Me
+    I am a passionate Web and Software Developer with a strong foundation in computer science and a specialization in cloud computing. Currently, I'm a CSE student honing my     skills and expanding my knowledge in the ever-evolving tech landscape.
+
+💻 Technical Skills
+    Web Development: HTML, CSS, JavaScript, React, Node.js
+    Database Management: MySQL, DynamoDB
+    Cloud Computing: Specialized knowledge in cloud technologies
+
+🎨 Design Skills
+    UI/UX Design: Proficient in Figma, creating intuitive and user-friendly interfaces
+    
+🚀 What Drives Me
+    I love transforming ideas into reality through code. Whether it's developing a full-stack web application or designing a seamless user experience, I'm always eager to       take on new challenges and learn something new.
+
+📚 Education
+    Bachelor of Computer Science and Engineering
+    Specialization in Cloud Computing
+    
+🌐 Connect with Me
+    I'm always open to collaboration, learning opportunities, and networking. Let's build something amazing together!
