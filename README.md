@@ -4,6 +4,7 @@
 
 Expertise in HTML, CSS, JavaScript, React, and Node.js
 Proficient in databases like MySQL and DynamoDB
+React Native for Android and IOS applications
 Passionate about creating dynamic and responsive web applications
 
 🎨 UI/UX Enthusiast
